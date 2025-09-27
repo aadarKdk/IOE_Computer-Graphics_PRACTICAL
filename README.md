@@ -1,3 +1,3 @@
-<h1>Computer Graphics(PRACTICAL IOE SYLLABUS)</h1>
+<h1>Computer Graphics(PRACTICAL)</h1>
 <br>
 
